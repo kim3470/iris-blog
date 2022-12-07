@@ -1,6 +1,8 @@
 # iris-blog
 
-for someone special
+Personal website made for a Christmas gift for someone special!
+
+Made using Astro
 
 # Welcome to [Astro](https://astro.build)
 
